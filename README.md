@@ -2,7 +2,7 @@
 Crud Api Java Spring H2
 
 
-<h1>Olá pessoal da ISPAY, tudo bem ?</h1>
+<h1>Olá pessoal da ITSPAY, tudo bem ?</h1>
 
 
 <b>Foi feito nesse projeto um crud!</b>
