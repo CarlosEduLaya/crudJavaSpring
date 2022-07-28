@@ -18,7 +18,7 @@ Crud Api Java Spring H2
 
 ![image](https://user-images.githubusercontent.com/98174354/181570532-11c6e408-d97e-45d3-86be-2f3e38124364.png)
 
-<h1>Para executar esse projeto e necessário ter o java instalado, coloquei na versão 8 pois o que vocês utilizam (tem o print da versão), e usei a ide de eclipse de string (tem o print da ide)</h1> 
+<h1>Para executar esse projeto e necessário ter o java instalado, coloquei na versão 8 pois o que vocês utilizam (tem o print da versão), e usei a ide de eclipse de spring (tem o print da ide)</h1> 
 
 ![image](https://user-images.githubusercontent.com/98174354/181569495-6353400f-c293-4195-90c1-1c579ae564c8.png)
 
